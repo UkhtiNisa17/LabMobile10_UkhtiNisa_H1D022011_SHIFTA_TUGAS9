@@ -231,3 +231,13 @@ function handleImageError() {
         Logout: Jika tombol logout diklik, fungsi logout() dipanggil untuk menghapus sesi pengguna.
 - Fallback Avatar:
         Jika gambar profil gagal dimuat, handleImageError() mengganti URL ke gambar default.
+
+
+  ![Lampiran](homeawl.png)
+  ![Lampiran](add.png)
+  ![Lampiran](homeadd.png)
+  ![Lampiran](edit.png)
+  ![Lampiran](complete.png)
+  ![Lampiran](completetodo.png)
+  ![Lampiran](hps.png)
+  ![Lampiran](sukseshps.png)
