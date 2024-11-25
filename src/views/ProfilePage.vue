@@ -43,9 +43,6 @@
           ></ion-input>
         </ion-item>
       </ion-list>
-
-      <!-- Tabs Menu -->
-      <TabsMenu />
     </ion-content>
   </ion-page>
 </template>
@@ -67,7 +64,6 @@ import {
 } from "@ionic/vue";
 import { exit } from "ionicons/icons";
 import { computed, ref } from "vue";
-import TabsMenu from "@/components/TabsMenu.vue";
 import { useAuthStore } from "@/stores/auth";
 
 const authStore = useAuthStore();
